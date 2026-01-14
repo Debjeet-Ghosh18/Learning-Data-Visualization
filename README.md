@@ -3,7 +3,6 @@
 This repository documents my **learning journey in Data Visualization**, an essential skill for every Data Scientist.  
 It covers both **foundations** and **practical tools** used to turn data into meaningful insights.
 
----
 
 ## 🚀 Why Data Visualization?
 Data visualization helps:
@@ -14,7 +13,6 @@ Data visualization helps:
 
 It is a **must-have skill** in Data Science and Analytics.
 
----
 
 ## 📚 What I’m Learning
 
@@ -24,9 +22,8 @@ It is a **must-have skill** in Data Science and Analytics.
 - Titles, labels, legends, and styling
 - Subplots and layout control
 
-> My first step into visual magic ✨
 
----
+> My first step into visual magic ✨
 
 ### 🔹 Stylish Visualizations with Seaborn
 - Statistical plots made easy
@@ -34,7 +31,6 @@ It is a **must-have skill** in Data Science and Analytics.
 - Built-in themes and color palettes
 - Working with real datasets
 
----
 
 ### 🔹 Interactive Graphs with Plotly
 - Interactive charts and dashboards
@@ -42,7 +38,6 @@ It is a **must-have skill** in Data Science and Analytics.
 - Line, bar, scatter, and 3D plots
 - Creating web-ready visualizations
 
----
 
 ### 🔹 Real-World Mini Project
 - Applying all tools together
@@ -50,7 +45,6 @@ It is a **must-have skill** in Data Science and Analytics.
 - Insight-driven visual storytelling
 - End-to-end visualization workflow
 
----
 
 ## 💡 Tips, Tricks & Shortcuts
 - Matplotlib best practices
@@ -58,7 +52,6 @@ It is a **must-have skill** in Data Science and Analytics.
 - Visualization shortcuts to save time
 - Tricks to impress your data team 😉
 
----
 
 ## 🛠 Tools & Libraries Used
 - Python
